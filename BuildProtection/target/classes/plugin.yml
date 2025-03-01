@@ -1,7 +1,0 @@
-name: BuildPlugin
-version: '1.0-SNAPSHOT'
-main: filip.hardcorecode.buildPlugin.BuildPlugin
-api-version: '1.20'
-commands:
-  build:
-    permission: build.use
